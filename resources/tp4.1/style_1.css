@@ -1,0 +1,58 @@
+body
+{
+	background-color: whitesmoke;
+}
+h1
+{
+	color: black;
+	text-align: center;
+	font: verdana;
+}
+.gif1
+{
+	margin: auto;
+	display: block;
+}
+.b1
+{
+	background-color: mediumblue;
+	color: whitesmoke;
+	border: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	text-align: center;
+	margin: 10px;
+	cursor: pointer;
+	transition: color 0.3s ease;
+	width: 150px;
+
+
+}
+.b1:hover {
+	color: red;
+	background-color: black;
+}
+h3
+{
+
+}
+div
+{
+	border: 7px solid greenyellow;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5%;
+	padding: 3%;
+	color: whitesmoke;
+	border-radius: 5%;
+}
+.groupe1
+{
+	background-color: indianred;
+}
+
+.groupe2
+{
+	background-color: dodgerblue;
+}
