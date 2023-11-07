@@ -1,0 +1,33 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aquamarine;
+    text-shadow: 1px 1px 1px black;
+}
+
+button {
+    background-color: blueviolet;
+    border: 2px solid cadetblue;
+    border-radius: 30px;
+    box-shadow: black 4px 4px 0 0;
+    color: aliceblue;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 27px;
+    padding: 0 18px;
+    line-height: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    transition: 0.1s;
+    width: 400px;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: black;
+    transform: translate(4px, 4px);
+    box-shadow: none;
+    transition: 0.3s;
+}
